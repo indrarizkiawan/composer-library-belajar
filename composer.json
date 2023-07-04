@@ -1,0 +1,19 @@
+{
+    "name": "acehsingkilprogrammer/belajar-composer-library",
+    "description": "Library Composer",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Acehsingkilprogrammer\\BelajarComposerLibrary\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Indra Rizkiawan",
+            "email": "indra.rizkiawan@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "8.2.7"
+    }
+}
